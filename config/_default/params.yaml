@@ -21,9 +21,9 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: ruampimentel@gmail.com
-phone: ""
+phone: ''
 address: 
-  street: 
+  street: ''
   city: Toledo
   region: OH
   postcode: ''
@@ -38,21 +38,11 @@ address:
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
 #contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me 
-    link: https://twitter.com/PimentelRuam
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/ruam-pimentel-45ab5099/
+#  - icon: twitter
+#    icon_pack: fab
+#    name: 'DM Me'
+#    link: 'https://twitter.com/PimentelRuam'
+
 
 # Site header
 
