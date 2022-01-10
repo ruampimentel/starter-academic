@@ -71,7 +71,7 @@ email: "ruampimentel@gmail.com"
 highlight_name: true
 ---
 
-Hi, I am Ruam Pimentel (English pronunciation: "who-am"). I'm Ph.D. Student in the Experimental Program in the Department of Pyschology at the University of Toledo.  Recently, I've studied and nourished an interest in personality, neuroscience, psychometrics, and artificial intelligence. In my free time, I’m a musician, and I love to learn new hobbies. I've participated in research labs working on cognitive and emotional processes (attention, memory, and affect), mental health, and the elderly population.
+Hi, I am Ruam Pimentel (English pronunciation: "who-am"). I'm a Ph.D. Student in the Experimental Program at the Department of Pyschology at the University of Toledo.  Recently, I've studied and nourished an interest in personality, neuroscience, psychometrics, and artificial intelligence. In my free time, I’m a musician, and I love to learn new hobbies. I've participated in research labs working on cognitive and emotional processes (attention, memory, and affect), mental health, and the elderly population.
 
 Right now, I'm very curious about how different kinds of psychological measures could provide information about oneself (multimethod) and how someone’s different mental states could generate different perceptions of the world. Specifically I've been studying the Rorschach Method in psychological assessment lab under the guidance of Dr. Gregory Meyer.
 
