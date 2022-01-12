@@ -14,7 +14,7 @@ organizations:
   url: https://www.utoledo.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Personality, Psychological Assessment, Neuroscience, Data Science.
+bio: My research interests include Personality, Psychological Assessment, Neuroscience, Data Science. **Do you want to support me? [Click here to buy me a coffee](https://www.buymeacoffee.com/ruampimentel)**
 
 # Interests to show in About widget
 interests:
@@ -56,6 +56,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ruam-pimentel-45ab5099/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
