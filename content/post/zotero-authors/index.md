@@ -18,7 +18,6 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
 I often forget how to do this, so this post is primarily for my own memory, and it might be helpful for someone else. 
 
 Zotero is amazing, but there is still space for improvement. One of these instances is when we have multiple entries for the same authors. The author name has to be exactly the same for all these entries. As expected, Zotero will treat them as two different authors if they are slightly different. For instance, if you have two of my publications, one of them as Ruam Pimentel and the other as R. Pimentel. Zotero will treat them as different authors, so when citing these studies on Zotero, they will put the authors' first name (i.e., Ruam or R.) in the in-text citation to differentiate both authors. There is no way to create an alias for the authors, and tell Zotero that all of these authors would be the same Author:
@@ -31,8 +30,7 @@ Zotero is amazing, but there is still space for improvement. One of these instan
 
 Yeah, I know, I have a big name. And I want Zotero to recognize all of my names as me. Anyway. But there is a workaround. 
 
-After reading different discussion boards from Zotero's amazing community ([Discussion 1](https://forums.zotero.org/discussion/16547/bulk-standardize-author-names), [Discussion 2]( https://forums.zotero.org/discussion/64353/first-name-appearing-in-in-text-citation) ), here is the workaround that Zotero offers for now using JavaScript. Hold on. You can do it directly from the Zotero interface. No big deal. 
-
+After reading different discussion boards from Zotero's amazing community ([Discussion 1](https://forums.zotero.org/discussion/16547/bulk-standardize-author-names), [Discussion 2](https://forums.zotero.org/discussion/64353/first-name-appearing-in-in-text-citation) ), here is the workaround that Zotero offers for now using JavaScript. Hold on. You can do it directly from the Zotero interface. No big deal. 
 
 This code was extracted from Zotero's documentation: [Click here to see Zotero's Original Documentation](https://www.zotero.org/support/dev/client_coding/javascript_api)
 
@@ -41,6 +39,7 @@ To accomplish that you will have to edit and run the following code from Zotero'
 ## Code from [Zotero's Documentation](https://www.zotero.org/support/dev/client_coding/javascript_api)
 
 ### JavaScript
+
 ```jsx
 var oldName = "R. P. F. A. Pimentel";
 var newFirstName = "Ruam P. F. A.";
@@ -89,19 +88,20 @@ Line 2 will have only my "first name" (in this case, it is everything but my las
 Line 3 will have only my "last name": Pimentel
 Line 4 sets how I would like to see my name in the files, Last name first (0: two-field), or my whole name in sequence (one-field). I like to see the last name first, hence I will select "two-field" (0)
 Here is how this part of the syntax looks like:
-```jsx
+
+```javascript
 var newFirstName = "Ruam P. F. A."; var new
 LastName = "Pimentel"; var new
 FieldMode = 0; // 0: two-field, 1: one-field (with empty first name)
 ```
+
 Finally, in the first line, I will put which names I would like to change to the new format. So I will put all the entries I mentioned above and run the entire syntax. Again, I have to run the syntax again for each entry. So in this case, I will run the syntax five times, and for each time I will change only the first line!
 here is the examples of all my first line:
 
-```jsx
+```javascript
 var oldName = "Ruam Pimentel";
 var oldName = "R. Pimentel";
 var oldName = "Ruam P F A Pimentel";
 var oldName = "R. P. F. A. Pimentel";
 var oldName = "Ruam Pedro Francisco de Assis Pimentel";
 ```
-
