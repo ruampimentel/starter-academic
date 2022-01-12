@@ -10,8 +10,7 @@ authors:
 lastmod: 2022-01-12T10:09:41-05:00
 tags:
   - zotero
-categories:
-  - Ph.D.
+categories: 
 projects: []
 image:
   caption: ""
