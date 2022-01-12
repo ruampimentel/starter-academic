@@ -75,4 +75,3 @@ Hi, I am Ruam Pimentel (English pronunciation: "who-am"). I'm a Ph.D. Student in
 
 Right now, I'm very curious about how different kinds of psychological measures could provide information about oneself (multimethod) and how someone’s different mental states could generate different perceptions of the world. Specifically I've been studying the Rorschach Method in psychological assessment lab under the guidance of Dr. Gregory Meyer.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
