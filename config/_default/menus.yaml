@@ -13,8 +13,8 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Docs
-    url: docs/
+  - name: "Stats Scrapbook"
+    url: stat_book/
     weight: 40
   - name: Publications
     url: publication/
