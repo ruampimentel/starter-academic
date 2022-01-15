@@ -43,6 +43,9 @@ For `University`, put the entire description for deparment and university (or pl
 
 Zotero will create a reference like that:
 
+  Pimentel, R. P. F. A., Meyer, G. J., & Mihura, J. L. (2022). *Malingering severe psychopathology on the Rorschach task: Systematic review and meta-analysis* [Manuscript in preparation]. Department of Psychology, University of Toledo.
+
+
   Meyer, G. J., Pimentel, R. P. F. A., Pianowski, G., & Vanhoyland, M. (2021). *Coding criteria for Breaking the Card Boundary (BCB)* [Unpublished scoring manual]. Department of Psychology, University of Toledo.
 
-  Pimentel, R. P. F. A., Meyer, G. J., & Mihura, J. L. (2022). *Malingering severe psychopathology on the Rorschach task: Systematic review and meta-analysis* [Manuscript in preparation]. Department of Psychology, University of Toledo.
+
