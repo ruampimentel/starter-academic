@@ -1,5 +1,5 @@
 ---
-title: Stats Scrapbook
+title: Scrapbook
 type: book  # Do not modify.
 toc: false
 ---
