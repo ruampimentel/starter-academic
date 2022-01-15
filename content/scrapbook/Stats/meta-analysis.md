@@ -1,16 +1,12 @@
 ---
-# Title, summary, and page position.
-linktitle: Meta Analysis
-summary: Sources for meta analytic tests
-weight: 2
-icon: book
-icon_pack: fas
-
-# Page metadata.
 title: Meta Analysis
-date: "2022-01-14T00:00:00Z"
-type: book  # Do not modify.
+linktitle: Meta Analysis
+type: book
+date: "2022-01-14T00:00:00+01:00"
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 2
 ---
+
 
 ## Resources
 
