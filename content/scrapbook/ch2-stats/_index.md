@@ -8,7 +8,7 @@ icon_pack: fas
 
 # Page metadata.
 title: 'Chapter 2: Stats and R'
-date: "2022-01-14T00:00:00Z"
+date: "2022-01-17T00:00:00Z"
 type: book  # Do not modify.
 ---
 
