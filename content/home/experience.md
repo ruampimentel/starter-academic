@@ -34,7 +34,7 @@ experience:
         
         * Organize international data collection accross 17 countries.
         * Provide resources for data collectors.
-        * [incomplete]
+        * [to be updated]
         
   - title: Teaching Assistant
     company: The University of Toledo
@@ -50,6 +50,18 @@ experience:
         * Statistical Methods 2 (for grad students)
         * Personality (for undergrad students)
         * Statistics (for undergrad students)
+
+  - title: Translation and Adaptation of the Personality Assessment Inventory to Portuguese (Research Assistant)
+    company: ''
+    company_url: ''
+    company_logo: 
+    location: ''
+    date_start: '2020-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * [to be updated]
 
   - title: Teaching Assistant
     company: Universidade São Francisco
