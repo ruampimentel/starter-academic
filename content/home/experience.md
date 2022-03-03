@@ -60,8 +60,8 @@ experience:
     date_end: '2019-07-31'
     description: |2-
         Assist professors in grading and helping students to learn the content.
-        * Undergraduate thesis advising I (for undergrad students)
-        * Undergraduate thesis advising II (for undergrad students)
+        * Thesis advising I (for undergrad students)
+        * Thesis advising II (for undergrad students)
 
   - title: Teaching Assistant
     company: CEULP/ULBRA
