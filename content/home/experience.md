@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * 
-        * 
-        * 
+        * here
+        * here
+        * here
         
   - title: Teaching Assistant
     company: The University of Toledo
