@@ -13,9 +13,9 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: "Scrapbook"
-    url: scrapbook/
-    weight: 40
+#  - name: "Scrapbook"
+#    url: scrapbook/
+#    weight: 40
   - name: Publications
     url: publication/
     weight: 50
