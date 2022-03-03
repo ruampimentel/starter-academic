@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Normative Data Collection Coordinator (Graduate Assistant)
+  - title: Normative Data Collection Coordinator (Research Assistant)
     company: Rorschach Perfomance Assessment System
     company_url: ''
     company_logo: 
@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * 
-        * 
-        * 
+        * Organize international data collection accross 17 countries.
+        * Provide resources for data collectors.
+        * [incomplete]
         
   - title: Teaching Assistant
     company: The University of Toledo
