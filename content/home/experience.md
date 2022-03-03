@@ -60,7 +60,7 @@ experience:
         * Undergraduate thesis advising I (for undergrad students)
         * Undergraduate thesis advising II (for undergrad students)
 
-- title: Teaching Assistant
+  - title: Teaching Assistant
     company: CEULP/ULBRA
     company_url: ''
     company_logo: 
