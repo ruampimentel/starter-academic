@@ -49,6 +49,7 @@ experience:
         * Statistical Methods 1 (for grad students) 
         * Statistical Methods 2 (for grad students)
         * Personality (for undergrad students)
+        * Statistics (for undergrad students)
 
   - title: Teaching Assistant
     company: Universidade São Francisco
