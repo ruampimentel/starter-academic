@@ -61,7 +61,10 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * [to be updated]
+        * Assist in all drafts and analysis.
+        * Organize and clean items for translation.
+        * Backtranslation (Portuguese to English).
+        * Run psychometrics (e.g., internal consistency, validity studies, norms).
 
   - title: Teaching Assistant
     company: Universidade São Francisco
