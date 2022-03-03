@@ -27,7 +27,7 @@ experience:
     company_url: ''
     company_logo: 
     location: Ohio, USA
-    date_start: '2020-08-01'
+    date_start: '2021-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -42,7 +42,7 @@ experience:
     company_logo: 
     location: Toledo, Ohio, USA
     date_start: '2019-08-01'
-    date_end: ''
+    date_end: '2021-05-31'
     description: |2-
         Assist professors in grading and helping students to learn the content.
         
