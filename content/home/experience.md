@@ -43,7 +43,11 @@ experience:
     location: Toledo, Ohio, USA
     date_start: '2019-08-01'
     date_end: ''
-    description: Assist professors in grading and helping students to learn the content.
+    description: |2-
+       Assist professors in grading and helping students to learn the content.
+        * Statistical Methods 1 (for grad students) 
+        * Statistical Methods 2 (for grad students)
+        * Personality (for undergrad students)
 
   - title: Teaching Assistant
     company: Universidade São Francisco
@@ -53,6 +57,21 @@ experience:
     date_start: '2018-03-01'
     date_end: '2019-07-31'
     description: Assist professors in grading and helping students to learn the content.
+        * Undergraduate thesis advising I (for undergrad students)
+        * Undergraduate thesis advising II (for undergrad students)
+
+- title: Teaching Assistant
+    company: CEULP/ULBRA
+    company_url: ''
+    company_logo: 
+    location: Palmas, Tocantins, Brazil
+    date_start: '2014-03-01'
+    date_end: '2017-06-20'
+    description: Assist professors in grading and helping students to learn the content.
+        * Morphophysiology and human behavior
+        * Methods of psychological assessment
+        * Psychological assessment
+        * Neuropsychological assessment
 
     
 design:
