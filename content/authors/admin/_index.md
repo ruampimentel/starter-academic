@@ -22,6 +22,7 @@ interests:
 - Personality
 - Neuroscience - Neuropsychology
 - Data Science (Quantitave Psychology)
+- Psychometrics
 
 # Education to show in About widget
 education:
