@@ -28,13 +28,13 @@ interests:
 education:
   courses:
   - course: PhD in Experimental Psychology 
-    institution: The University of Toledo (USA)
+    institution: [The University of Toledo (USA)](https://www.utoledo.edu/al/psychology/grad/)
     year: in progress (2024)
   - course: Master in Psychology 
-    institution: Universidade São Francisco (Brazil)
+    institution: [Universidade São Francisco (Brazil)](https://www.usf.edu.br/ppg/interna/105121443/sobre+o+nosso+programa.htm?lang=br)
     year: 2019
   - course: BSc in Psychology
-    institution: CEULP/ULBRA (Brazil)
+    institution: [CEULP/ULBRA (Brazil)](https://ulbra-to.br/cursos/Psicologia/)
     year: 2017
 
 # Social/Academic Networking
