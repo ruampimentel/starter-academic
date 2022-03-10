@@ -34,6 +34,8 @@ PS: After putting this together, I decided to google about it to see what other'
 
 I have here as easy access for myself. As I find more functions, I will keep updating this post.
 
+I'm using as data example the `mtcars` dataset that is built-in in R. And also, using my best friend pipe (`%>%`)
+
 ```R
 library(dplyr)
 
@@ -45,3 +47,5 @@ mtcars %>% pastecs::stat.desc(norm = T) %>% t() %>% round(2)
 mtcars %>% summarytools::dfSummary() %>% summarytools::view()
 mtcars %>% summarytools::descr(transpose = T)
 ```
+
+Now, I will put
