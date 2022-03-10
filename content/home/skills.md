@@ -5,6 +5,7 @@ widget: featurette
 
 # This file represents a page section.
 headless: true
+Active: false
 
 # Order that this section appears on the page.
 weight: 30
