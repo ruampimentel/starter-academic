@@ -30,7 +30,7 @@ projects: []
 
 Here are the functions I often use to describe and summarize my data.
  
-PS: After putting this together, I decided to google about it to see what other's have been using, and found [Adam's post](https://dabblingwithdata.wordpress.com/2018/01/02/my-favourite-r-package-for-summarising-data/) explaining the same functions. So if you want to learn how to use them, I would recommend you to check [Adam's post](https://dabblingwithdata.wordpress.com/2018/01/02/my-favourite-r-package-for-summarising-data/). 
+PS: After putting this together, I decided to google about it to see what other's have been using, and found [Adam Medcalf's post](https://dabblingwithdata.wordpress.com/2018/01/02/my-favourite-r-package-for-summarising-data/) explaining the same functions. So if you want to learn how to use them, I would recommend you to check [Adam's post](https://dabblingwithdata.wordpress.com/2018/01/02/my-favourite-r-package-for-summarising-data/). 
 
 I have here as easy access for myself. As I find more functions, I will keep updating this post.
 
